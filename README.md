@@ -21,3 +21,7 @@ textDest test2
 # 参考サイト
 
 https://www.tutorialspoint.com/compile_c_online.php
+
+# Qiita記事
+
+https://qiita.com/darjeeling/items/1526d82715b2438e36d9
