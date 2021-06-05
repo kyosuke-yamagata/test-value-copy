@@ -18,9 +18,15 @@ textDest abcdefg
 textSrc test1   
 textDest test2   
 
+# 注意
+strcpyの仕様で、終端'\0' までをコピーする。
+コピー先の変数のサイズ指定に注意。
+
 # 参考サイト
 
-https://www.tutorialspoint.com/compile_c_online.php
+1. https://www.tutorialspoint.com/compile_c_online.php
+
+1. http://www9.plala.or.jp/sgwr-t/lib/strcpy.html
 
 # Qiita記事
 
