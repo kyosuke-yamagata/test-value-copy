@@ -25,6 +25,9 @@ strcpyの仕様で、終端'\0' までをコピーする。
 サンプルでは
 " 格納する文字列リテラルのbyte数 < 大本の文字列リテラル自体のbyte数 "にしている。
 
+今回の事例であれば  
+textDest[8]とtextDest[7]での実行結果を比較いただければ判りやすい。
+
 # 参考サイト
 
 1. https://www.tutorialspoint.com/compile_c_online.php
