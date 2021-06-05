@@ -28,6 +28,8 @@ strcpyの仕様で、終端'\0' までをコピーする。
 今回の事例であれば  
 textDest[8]とtextDest[7]での実行結果を比較いただければ判りやすい。
 
+参考サイト2.も参照すべし。
+
 # 参考サイト
 
 1. https://www.tutorialspoint.com/compile_c_online.php
