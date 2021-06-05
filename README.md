@@ -22,6 +22,9 @@ textDest test2
 strcpyの仕様で、終端'\0' までをコピーする。
 コピー先の変数のサイズ指定に注意。
 
+サンプルでは
+" 格納する文字列リテラルのbyte数 < 大本の文字列リテラル自体のbyte数 "にしている。
+
 # 参考サイト
 
 1. https://www.tutorialspoint.com/compile_c_online.php
