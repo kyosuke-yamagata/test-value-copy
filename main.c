@@ -4,7 +4,7 @@
 int main()
 {
 
-    // 初期状態 *:終端記号も含め、格納する文字列リテラルのbyte数 < 大本の文字列リテラル自体のbyte数で変数を定義したことにも注意 
+    // 初期状態 *:終端記号も含めた、今回サンプルコードで格納する文字列リテラル最大byte数 < 大本の文字列リテラル自体のbyte数で変数を定義したことにも注意 
     unsigned char textSrc[16] = "abcdefg";
     
     unsigned char textDest[16] = "test";
